@@ -4,5 +4,5 @@
 </br>
 
 </br>
-🧪 Personal website: [https://thomasbrinkman.nl](https://thomasbrinkman.nl/)
+🧪 Personal website: https://thomasbrinkman.nl
 </br>
